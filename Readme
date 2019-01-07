@@ -1,0 +1,40 @@
+底层相关：
+    Base模块
+    Application
+    网络
+
+界面相关：
+    标题栏
+    状态栏沉浸
+    界面侧滑功能
+    界面上拉下拉
+    glide4
+    图片库
+    图表
+    字母导航
+    等待动效
+    底部导航
+    banner
+    联动布局
+    控件美化（button、textview、edittext等）
+    其他常用控件封装（对话框、webview）
+
+功能补充：
+    全能适配器
+    eventbus
+    权限请求框架
+    ButterKnife注解
+    友盟统计
+    常用工具（时间、SP、toast、文件、转换、log）
+    退出提示
+    视频播放
+    动画特效
+    支付
+    分享登录
+    greendao数据库
+    二维码扫描
+    极光推送
+    地图
+
+
+

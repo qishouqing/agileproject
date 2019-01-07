@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteAlpha3">#46FFFFFF</color>
+    <color name="colorGrayC">#CCCCCC</color>
+    <color name="colorGrayC4">#C4C4C4</color>
+    <color name="colorGrayE">#EEEEEE</color>
+    <color name="colorGrayFA">#FAFAFA</color>
+    <color name="colorGrayF0">#F0F0F0</color>
+    <color name="colorGrayF7">#F7F7F7</color>
+    <color name="colorGray8">#888888</color>
+    <color name="colorGray7">#777777</color>
+    <color name="colorBlack3">#333333</color>
+    <color name="colorBlack5">#555555</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="colorGray666">#666666</color>
+    <color name="colorGray999">#999999</color>
+    <color name="colorGraya3">#a3a3a3</color>
+    <color name="colorGrayline">#CCE9E9E9</color>
+    <color name="colorPurpleline">#8A7FE2</color>
+    <color name="colorCommonbg">#F2F2F2</color>
+    <color name="colorOrigen">#E68637</color>
+
+
+
+    <!-- 透明色 -->
+    <color name="color_transparent">#00000000</color>
+    <color name="color_transparent_10">#1A000000</color>
+    <color name="color_light_gray">#C1C1C1</color>
+    <color name="color_light_gray_b1">#B1B1B1</color>
+    <color name="color_activation">#D268ED</color>
+
+    <!--自定义Toast背景色-->
+    <color name="toast_bg_color">#80000000</color>
+
+</resources>
